@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">10118397_joss</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Wisata</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_notifications">info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
