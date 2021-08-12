@@ -1,4 +1,4 @@
-package com.example.a10118397_joss.ui.home;
+package com.bagas.a10118397_joss.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,8 +12,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.a10118397_joss.R;
-import com.example.a10118397_joss.databinding.FragmentHomeBinding;
+import com.bagas.a10118397_joss.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
 

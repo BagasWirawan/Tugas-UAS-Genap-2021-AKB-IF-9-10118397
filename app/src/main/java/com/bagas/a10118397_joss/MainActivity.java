@@ -1,4 +1,4 @@
-package com.example.a10118397_joss;
+package com.bagas.a10118397_joss;
 /*nama : bagas wirawan
   NIM : 10118397
   Kelas : IF9
@@ -16,7 +16,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.a10118397_joss.databinding.ActivityMainBinding;
+import com.bagas.a10118397_joss.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.a10118397_joss;
+package com.bagas.a10118397_joss;
 /*nama : bagas wirawan
   NIM : 10118397
   Kelas : IF9
@@ -10,22 +10,14 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.Observer;
-import androidx.lifecycle.ViewModelProvider;
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
-import com.example.a10118397_joss.Fragment1;
-import com.example.a10118397_joss.Fragment2;
-import com.example.a10118397_joss.Fragment3;
-import com.example.a10118397_joss.R;
-import com.example.a10118397_joss.SliderPagerAdapter;
-import com.example.a10118397_joss.databinding.FragmentNotificationsBinding;
+import com.bagas.a10118397_joss.R;
+import com.bagas.a10118397_joss.databinding.FragmentNotificationsBinding;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.a10118397_joss;
+package com.bagas.a10118397_joss;
 /*nama : bagas wirawan
   NIM : 10118397
   Kelas : IF9
@@ -19,14 +19,14 @@ import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.android.material.imageview.ShapeableImageView;
 
-public class WisataAdapter extends FirebaseRecyclerAdapter<com.example.a10118397_joss.WisataModel,WisataAdapter.myViewHolder> {
+public class WisataAdapter extends FirebaseRecyclerAdapter<com.bagas.a10118397_joss.WisataModel,WisataAdapter.myViewHolder> {
 
-    public WisataAdapter(@NonNull FirebaseRecyclerOptions<com.example.a10118397_joss.WisataModel> options) {
+    public WisataAdapter(@NonNull FirebaseRecyclerOptions<com.bagas.a10118397_joss.WisataModel> options) {
         super(options);
     }
 
     @Override
-    protected void onBindViewHolder(@NonNull myViewHolder holder, int position, @NonNull com.example.a10118397_joss.WisataModel model) {
+    protected void onBindViewHolder(@NonNull myViewHolder holder, int position, @NonNull com.bagas.a10118397_joss.WisataModel model) {
         holder.nama.setText(model.getNama());
 //        holder.kategori.setText(model.getKategori());
         holder.alamat.setText(model.getAlamat());
